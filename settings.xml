@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <InputDefaultBindingsFixApplied>true</InputDefaultBindingsFixApplied>
+    <ShowMenuFixApplied>true</ShowMenuFixApplied>
+    <MenuUpdateVersion>0</MenuUpdateVersion>
+    <Volume>78</Volume>
+    <RecentFiles>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E08 - 052 - The Mu in Muichiro [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-The.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E09 - 053 - Mist Hashira Muichiro Tokito [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-Mist.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E07 - 051 - Awful Villain [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-Awful.mkv</string>
+        <string>E:\Shows\Extraordinary\Season 1\Extraordinary (2023) - S01E03 - - Dead End Job [WEBDL-1080p][8bit][h264][EAC3 5.1]-CAKES.mkv</string>
+        <string>E:\Shows\Extraordinary\Season 1\Extraordinary (2023) - S01E02 - - Magic Bullets [WEBDL-1080p][8bit][h264][EAC3 5.1]-CAKES.mkv</string>
+        <string>E:\Shows\Extraordinary\Season 1\Extraordinary (2023) - S01E01 - - Have Nots [WEBDL-1080p][8bit][h264][EAC3 5.1]-CAKES.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E06 - 050 - Aren't You Going to Become a Hashira [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-Aren.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E05 - 049 - Bright Red Sword [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-Bright.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E04 - 048 - Thank You Tokito [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-Thank.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E03 - 047 - A Sword From Over 300 Years Ago [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-A.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E02 - 046 - Yoriichi Type Zero [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-Yoriichi.mkv</string>
+        <string>E:\Torrent\Demon Slayer S03 1080p Dual Audio BD Remux FLAC AVC-TTGA\S03E04-Thank You, Tokito.mkv</string>
+        <string>E:\Torrent\Demon Slayer S03 1080p Dual Audio BD Remux FLAC AVC-TTGA\S03E03-A Sword from Over 300 Years Ago.mkv</string>
+        <string>E:\Torrent\Demon Slayer S03 1080p Dual Audio BD Remux FLAC AVC-TTGA\S03E02-Yoriichi Type Zero.mkv</string>
+        <string>F:\Shows\Demon Slayer- Kimetsu no Yaiba\Season 4\Demon Slayer - Kimetsu no Yaiba (2019) - S04E01 - 045 - Someones Dream [HDTV-1080p][8bit][h264][FLAC 2.0][JA+EN]-Someone.mkv</string>
+    </RecentFiles>
+    <WindowLocation>
+        <X>0</X>
+        <Y>0</Y>
+    </WindowLocation>
+    <WindowPosition>
+        <X>1279</X>
+        <Y>704</Y>
+    </WindowPosition>
+    <WindowSize>
+        <Width>1504</Width>
+        <Height>846</Height>
+    </WindowSize>
+    <AudioDevice />
+    <ConfigEditorSearch>Video:</ConfigEditorSearch>
+    <Mute>no</Mute>
+    <StartupFolder />
+</AppSettings>
