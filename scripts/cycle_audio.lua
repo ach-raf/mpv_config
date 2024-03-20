@@ -38,8 +38,12 @@ function cycle_audio()
     if aid == 0 then
         mp.osd_message("No audio track")
     else
+        
         local selected_track = audio_tracks[aid]
-        mp.osd_message(string.format("%d/%d: %s", aid, #audio_tracks, selected_track.title))
+        if selected_track.title == nil then
+            selected_track.title = ""
+        end
+        mp.osd_message(string.format("%d/%d: %s", aid, #audio_tracks, selected_track.lang .. " - " .. selected_track.title or "unknown"))
     end
 end
 
